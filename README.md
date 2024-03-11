@@ -15,6 +15,7 @@ Saturday                 28 commits          ██░░░░░░░░░�
 Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 📊 **This Week I Spent My Time On** 
 
