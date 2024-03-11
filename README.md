@@ -7,6 +7,36 @@
   </a>
   </h1>
 
+# Hi,there is MengFanjun👋
+- I come from China.🇨🇳
+- Senior majoring in communication engineering
+- This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
+- My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
+- I am mainly engaged in C++, Java, embedded programming, artificial intelligence, and other aspects.
+- Currently studying **I am currently studying courses in network communication and embedded systems.**
+- These warehouses and blogs are also my witnesses on the way to college
+- **Continue to create, continue to output, be a lifelong learner**
+
+
+
+
+
+
+  
+
+<a href="https://myblog.areay7.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=myblog.areay7.top&message=MyBlog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
+
+
+
+
+<a href="https://areay7.github.io/">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MengFanjun020906&row=1&column=4"/>
+</a>
+
+
+<a href="https://areay7.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
+</a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
