@@ -30,12 +30,12 @@
 
 
 <a href="https://areay7.github.io/">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MengFanjun020906&row=1&column=4"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Areay7&row=1&column=4"/>
 </a>
 
 
 <a href="https://areay7.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Areay7&hide=contribs"/>
 </a>
 
 <!--START_SECTION:waka-->
