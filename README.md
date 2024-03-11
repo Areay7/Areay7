@@ -7,11 +7,11 @@
   </a>
   </h1>
 
-# Hi,there is MengFanjun👋
+# Hi,there is Areay7👋
 - I come from China.🇨🇳
 - Senior majoring in communication engineering
-- This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
-- My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
+- This is my [blog](https://myblog.areay7.top), most of which is my study record, later thought, blog can also record some personal life what
+- My [email](Areay7_2507549477@qq.com), please contact me if you have any questions
 - I am mainly engaged in C++, Java, embedded programming, artificial intelligence, and other aspects.
 - Currently studying **I am currently studying courses in network communication and embedded systems.**
 - These warehouses and blogs are also my witnesses on the way to college
