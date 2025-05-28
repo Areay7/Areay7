@@ -10,7 +10,7 @@
 # Hi,there is Areay7👋
 - I come from China.🇨🇳
 - Bachelor degree in Internet of Things engineering
-- This is my [blog](https://myblog.areay7.top), most of which is my study record, later thought, blog can also record some personal life what
+- This is my [blog](https://areay7.github.io), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](2507549477@qq.com), please contact me if you have any questions
 - I am mainly engaged in C++, Java, embedded programming, artificial intelligence, and other aspects.
 - Currently studying **I am currently studying courses in network communication and embedded systems.**
@@ -24,7 +24,7 @@
 
   
 
-<a href="https://myblog.areay7.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=myblog.areay7.top&message=MyBlog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
+<a href="https://areay7.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=areay7.github.io&message=MyBlog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
 
 
 
