@@ -48,8 +48,38 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 28/09/2025 16:39:14 UTC
+```text
+Monday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  212 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Wednesday                171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Thursday                 152 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Friday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/09/2025 16:38:16 UTC
 <!--END_SECTION:waka-->
